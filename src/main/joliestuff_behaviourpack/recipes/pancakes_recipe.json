@@ -1,0 +1,42 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "joliestuff:pancakes_recipe"
+    },
+    "groups": [
+      "joliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345"
+    ],
+    "key": {
+      "0": {
+        "item": "joliestuff:flour"
+      },
+      "1": {
+        "item": "minecraft:milk_bucket"
+      },
+      "2": {
+        "item": "joliestuff:flour"
+      },
+      "3": {
+        "item": "minecraft:sugar"
+      },
+      "4": {
+        "item": "minecraft:egg"
+      },
+      "5": {
+        "item": "minecraft:sugar"
+      }
+    },
+    "result": {
+      "item": "joliestuff:pancakes",
+      "count": 4
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "JolieStuff",
+    "uuid": "edf12a8d-1a34-335d-90e6-88875ff0268c",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "d9ac1aad-5260-3f51-85e7-ef44185ebccb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "e9b02f88-27f1-3198-8344-dd37d4005de3",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "josep, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

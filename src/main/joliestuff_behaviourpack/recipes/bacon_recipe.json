@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "joliestuff:bacon_recipe"
+    },
+    "groups": [
+      "joliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "01"
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:porkchop"
+      },
+      "1": {
+        "item": "minecraft:flint_and_steel"
+      }
+    },
+    "result": {
+      "item": "joliestuff:bacon",
+      "count": 2
+    }
+  }
+}

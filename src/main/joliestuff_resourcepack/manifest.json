@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "JolieStuff",
+    "uuid": "e9b02f88-27f1-3198-8344-dd37d4005de3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "ffe42d3c-9d34-31e0-a4c4-c7625bc026c9",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "josep, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

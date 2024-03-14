@@ -1,0 +1,59 @@
+{
+  "mod_elements": [
+    {
+      "name": "BlockOfJake",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_jake",
+      "metadata": {
+        "files": [
+          "src/main/joliestuff_behaviourpack/blocks/block_of_jake.json"
+        ]
+      }
+    },
+    {
+      "name": "Flour",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flour",
+      "metadata": {
+        "files": [
+          "src/main/joliestuff_behaviourpack/items/flour.json",
+          "src/main/joliestuff_resourcepack/items/flour.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.joliestuff:flour.name": "Flour",
+      "tile.joliestuff:block_of_jake.name": "Block of Jake"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "joliestuff",
+    "modName": "JolieStuff",
+    "version": "1.0.0",
+    "author": "josep, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.20.x",
+    "modElementsPackage": "net.mcreator.joliestuff",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

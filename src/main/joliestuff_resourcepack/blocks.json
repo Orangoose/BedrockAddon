@@ -1,0 +1,14 @@
+{
+  "format_version": "1.16.100",
+  "joliestuff:block_of_jake": {
+    "textures": {
+      "up": "joliestuff_block_of_jake_up",
+      "down": "joliestuff_block_of_jake_down",
+      "south": "joliestuff_block_of_jake_south",
+      "north": "joliestuff_block_of_jake_north",
+      "west": "joliestuff_block_of_jake_west",
+      "east": "joliestuff_block_of_jake_east"
+    },
+    "sound": "gravel"
+  }
+}

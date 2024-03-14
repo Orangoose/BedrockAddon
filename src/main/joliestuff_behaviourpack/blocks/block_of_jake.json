@@ -1,0 +1,21 @@
+{
+  "format_version": "1.17.3",
+  "minecraft:block": {
+    "description": {
+      "identifier": "joliestuff:block_of_jake",
+      "is_experimental": false,
+      "register_to_creative_menu ": true
+    },
+    "components": {
+      "minecraft:map_color": "#9F5224",
+      "minecraft:block_light_emission": 0,
+      "minecraft:destroy_time": 4,
+      "minecraft:explosion_resistance": 100,
+      "minecraft:friction": 0.6,
+      "minecraft:flammable": {
+        "flame_odds": 0,
+        "burn_odds": 0
+      }
+    }
+  }
+}
