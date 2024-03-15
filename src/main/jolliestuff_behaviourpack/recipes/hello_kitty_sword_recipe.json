@@ -1,0 +1,46 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "jolliestuff:hello_kitty_sword_recipe"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      " 7 "
+    ],
+    "key": {
+      "0": {
+        "item": "minecraft:gunpowder"
+      },
+      "1": {
+        "item": "jolliestuff:bacon_pancakes"
+      },
+      "2": {
+        "item": "minecraft:piston"
+      },
+      "3": {
+        "item": "minecraft:iron_ingot"
+      },
+      "4": {
+        "item": "minecraft:waterlily"
+      },
+      "5": {
+        "item": "minecraft:milk_bucket"
+      },
+      "7": {
+        "item": "minecraft:golden_sword"
+      }
+    },
+    "result": {
+      "item": "jolliestuff:hello_kitty_sword",
+      "count": 1
+    }
+  }
+}

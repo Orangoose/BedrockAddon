@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "jolliestuff:bacon_pancakes_recipe"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "jolliestuff:bacon"
+      },
+      {
+        "item": "jolliestuff:pancakes"
+      }
+    ],
+    "result": {
+      "item": "jolliestuff:bacon_pancakes",
+      "count": 1
+    }
+  }
+}

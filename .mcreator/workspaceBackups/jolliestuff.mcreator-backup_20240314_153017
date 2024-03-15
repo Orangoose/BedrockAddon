@@ -1,0 +1,306 @@
+{
+  "mod_elements": [
+    {
+      "name": "BlockOfJake",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_jake",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/blocks/block_of_jake.json"
+        ]
+      }
+    },
+    {
+      "name": "Flour",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flour",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_resourcepack/items/flour.json",
+          "src/main/jolliestuff_behaviourpack/items/flour.json"
+        ]
+      }
+    },
+    {
+      "name": "FlourRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flour_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/flour_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Pancakes",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/items/pancakes.json",
+          "src/main/jolliestuff_resourcepack/items/pancakes.json"
+        ]
+      }
+    },
+    {
+      "name": "PancakesRecipe",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pancakes_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/pancakes_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Bacon",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bacon",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/items/bacon.json",
+          "src/main/jolliestuff_resourcepack/items/bacon.json"
+        ]
+      }
+    },
+    {
+      "name": "BaconRecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bacon_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/bacon_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BaconPancakes",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bacon_pancakes",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/items/bacon_pancakes.json",
+          "src/main/jolliestuff_resourcepack/items/bacon_pancakes.json"
+        ]
+      }
+    },
+    {
+      "name": "BaconPancakesRecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "bacon_pancakes_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/bacon_pancakes_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "FinnsSword",
+      "type": "tool",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "finns_sword",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/items/finns_sword.json",
+          "src/main/jolliestuff_resourcepack/items/finns_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "FinnsSwordRecipe",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "finns_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/finns_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BlockOfJakeRecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "block_of_jake_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/block_of_jake_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "HelloKittySword",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hello_kitty_sword",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_resourcepack/items/hello_kitty_sword.json",
+          "src/main/jolliestuff_behaviourpack/items/hello_kitty_sword.json"
+        ]
+      }
+    },
+    {
+      "name": "HelloKittySwordRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hello_kitty_sword_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/hello_kitty_sword_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "Strawberry",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strawberry",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_resourcepack/items/strawberry.json",
+          "src/main/jolliestuff_behaviourpack/items/strawberry.json"
+        ]
+      }
+    },
+    {
+      "name": "StrawberryTablwe",
+      "type": "loottable",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strawberry_tablwe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/loot_tables/entities/cow.json"
+        ]
+      }
+    },
+    {
+      "name": "StrawberryRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strawberry_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/strawberry_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "StrawberryMilk",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strawberry_milk",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/items/strawberry_milk.json",
+          "src/main/jolliestuff_resourcepack/items/strawberry_milk.json"
+        ]
+      }
+    },
+    {
+      "name": "StrawberryMilkRecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "strawberry_milk_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/strawberry_milk_recipe.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.jolliestuff:hello_kitty_sword.name": "Hello Kitty Sword",
+      "item.joliestuff:pancakes.name": "Pancakes",
+      "item.joliestuff:bacon.name": "Bacon",
+      "item.joliestuff:hello_kitty_sword.name": "Hello Kitty Sword",
+      "item.joliestuff:flour.name": "Flour",
+      "item.jolliestuff:bacon_pancakes.name": "Bacon Pancakes",
+      "item.jolliestuff:bacon.name": "Bacon",
+      "item.joliestuff:strawberry_milk.name": "Strawberry Milk",
+      "item.joliestuff:bacon_pancakes.name": "Bacon Pancakes",
+      "tile.jolliestuff:block_of_jake.name": "Block of Jake",
+      "tile.joliestuff:block_of_jake.name": "Block of Jake",
+      "item.joliestuff:finns_sword.name": "Finn\u0027s Sword",
+      "item.jolliestuff:finns_sword.name": "Finn\u0027s Sword",
+      "item.joliestuff:strawberry.name": "Strawberry",
+      "item.jolliestuff:flour.name": "Flour",
+      "item.jolliestuff:pancakes.name": "Pancakes",
+      "item.jolliestuff:strawberry.name": "Strawberry",
+      "item.jolliestuff:strawberry_milk.name": "Strawberry Milk"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "jolliestuff",
+    "modName": "JollieStuff",
+    "version": "1.0.0",
+    "description": "Jollie as hell!",
+    "author": "Joe \u0026 Ollie",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "modPicture": "mod_logo",
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.20.x",
+    "credits": "made with mcreator",
+    "modElementsPackage": "net.mcreator.joliestuff",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202300336712
+}

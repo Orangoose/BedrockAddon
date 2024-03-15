@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "jolliestuff:strawberry_milk_recipe"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "jolliestuff:strawberry"
+      },
+      {
+        "item": "minecraft:milk_bucket"
+      }
+    ],
+    "result": {
+      "item": "jolliestuff:strawberry_milk",
+      "count": 1
+    }
+  }
+}

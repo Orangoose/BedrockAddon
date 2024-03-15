@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "jolliestuff:finns_sword_recipe"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "  2",
+      "34 ",
+      "67 "
+    ],
+    "key": {
+      "2": {
+        "item": "minecraft:gold_ingot"
+      },
+      "3": {
+        "item": "minecraft:obsidian"
+      },
+      "4": {
+        "item": "minecraft:gold_ingot"
+      },
+      "6": {
+        "item": "minecraft:blaze_rod"
+      },
+      "7": {
+        "item": "minecraft:obsidian"
+      }
+    },
+    "result": {
+      "item": "jolliestuff:finns_sword",
+      "count": 1
+    }
+  }
+}

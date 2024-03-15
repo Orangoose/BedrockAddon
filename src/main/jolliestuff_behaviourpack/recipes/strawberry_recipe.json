@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "jolliestuff:strawberry_recipe"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "ingredients": [
+      {
+        "item": "jolliestuff:strawberry"
+      },
+      {
+        "item": "minecraft:water_bucket"
+      },
+      {
+        "item": "minecraft:wheat_seeds"
+      }
+    ],
+    "result": {
+      "item": "jolliestuff:strawberry",
+      "count": 2
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jolliestuff:hello_kitty_sword",
+      "category": "Equipment",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "hello_kitty_sword",
+      "minecraft:render_offsets": "tools",
+      "minecraft:creative_category": "Equipment"
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Jollie as hell!",
+    "name": "JollieStuff",
+    "uuid": "f9f6e077-5906-3d1a-8eac-d122fe55a0d6",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "Jollie as hell!",
+      "type": "data",
+      "uuid": "080d7a36-0901-3235-a6fc-8e7d5c98cad8",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "5694b87c-3a6f-394a-8f37-faf0ea6de18e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "Joe & Ollie"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

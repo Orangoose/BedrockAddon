@@ -1,0 +1,30 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "bacon": {
+      "textures": "textures/items/bacon"
+    },
+    "finns_sword": {
+      "textures": "textures/items/finns_sword"
+    },
+    "strawberry_milk": {
+      "textures": "textures/items/strawberry_milk"
+    },
+    "hello_kitty_sword": {
+      "textures": "textures/items/hello_kitty"
+    },
+    "flour": {
+      "textures": "textures/items/flour"
+    },
+    "bacon_pancakes": {
+      "textures": "textures/items/bacon_pancakes"
+    },
+    "strawberry": {
+      "textures": "textures/items/strawberry"
+    },
+    "pancakes": {
+      "textures": "textures/items/pancakes"
+    }
+  }
+}
