@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 2,
+    "recipeRetstackSize": 8,
     "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -15,16 +15,16 @@
         "value": "Blocks.WHEAT"
       },
       {
-        "value": "Items.SHEARS"
+        "value": "Blocks.WHEAT"
       },
       {
         "value": ""
       },
       {
-        "value": ""
+        "value": "Blocks.WHEAT"
       },
       {
-        "value": ""
+        "value": "Blocks.WHEAT"
       },
       {
         "value": ""

@@ -3,7 +3,7 @@
   "_type": "recipe",
   "definition": {
     "recipeType": "Crafting",
-    "recipeRetstackSize": 2,
+    "recipeRetstackSize": 3,
     "group": "",
     "cookingBookCategory": "MISC",
     "xpReward": 0.0,
@@ -15,7 +15,7 @@
         "value": "Items.PORKCHOP"
       },
       {
-        "value": "Items.FLINT_AND_STEEL"
+        "value": "Items.COOKED_PORKCHOP"
       },
       {
         "value": ""

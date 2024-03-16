@@ -11,15 +11,12 @@
       "crafting_table"
     ],
     "pattern": [
-      "012",
+      "0 2",
       "345"
     ],
     "key": {
       "0": {
         "item": "jolliestuff:flour"
-      },
-      "1": {
-        "item": "minecraft:milk_bucket"
       },
       "2": {
         "item": "jolliestuff:flour"

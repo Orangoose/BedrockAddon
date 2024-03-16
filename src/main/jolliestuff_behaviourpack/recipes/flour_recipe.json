@@ -15,12 +15,18 @@
         "item": "minecraft:wheat"
       },
       {
-        "item": "minecraft:shears"
+        "item": "minecraft:wheat"
+      },
+      {
+        "item": "minecraft:wheat"
+      },
+      {
+        "item": "minecraft:wheat"
       }
     ],
     "result": {
       "item": "jolliestuff:flour",
-      "count": 2
+      "count": 8
     }
   }
 }
