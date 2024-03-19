@@ -318,19 +318,6 @@
           "src/main/jolliestuff_behaviourpack/recipes/smooth_plank_recipe.json"
         ]
       }
-    },
-    {
-      "name": "BlastCobble",
-      "type": "recipe",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "blast_cobble",
-      "metadata": {
-        "files": [
-          "src/main/jolliestuff_behaviourpack/recipes/blast_cobble.json"
-        ]
-      }
     }
   ],
   "variable_elements": [],

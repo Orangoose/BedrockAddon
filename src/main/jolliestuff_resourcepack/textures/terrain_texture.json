@@ -33,6 +33,36 @@
       "textures": [
         "textures/blocks/bolck_of_jake_side"
       ]
+    },
+    "jolliestuff_smooth_plank_up": {
+      "textures": [
+        "textures/blocks/beehive_top"
+      ]
+    },
+    "jolliestuff_smooth_plank_down": {
+      "textures": [
+        "textures/blocks/beehive_top"
+      ]
+    },
+    "jolliestuff_smooth_plank_south": {
+      "textures": [
+        "textures/blocks/beehive_top"
+      ]
+    },
+    "jolliestuff_smooth_plank_north": {
+      "textures": [
+        "textures/blocks/beehive_top"
+      ]
+    },
+    "jolliestuff_smooth_plank_west": {
+      "textures": [
+        "textures/blocks/beehive_top"
+      ]
+    },
+    "jolliestuff_smooth_plank_east": {
+      "textures": [
+        "textures/blocks/beehive_top"
+      ]
     }
   }
 }

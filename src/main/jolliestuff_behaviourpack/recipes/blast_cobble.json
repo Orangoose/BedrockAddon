@@ -1,0 +1,21 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "jolliestuff:blast_cobble"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": {
+      "item": "minecraft:cobblestone"
+    },
+    "output": {
+      "item": "minecraft:stone",
+      "data": 0
+    }
+  }
+}

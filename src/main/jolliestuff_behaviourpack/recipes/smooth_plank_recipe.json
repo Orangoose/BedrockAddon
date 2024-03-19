@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shapeless": {
+    "description": {
+      "identifier": "jolliestuff:smooth_plank_recipe"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "priority": 0,
+    "tags": [
+      "stonecutter"
+    ],
+    "ingredients": [
+      {
+        "item": "minecraft:planks"
+      }
+    ],
+    "result": {
+      "item": "jolliestuff:smooth_plank",
+      "count": 2
+    }
+  }
+}

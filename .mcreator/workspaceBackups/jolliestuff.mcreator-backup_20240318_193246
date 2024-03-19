@@ -3,6 +3,7 @@
     {
       "name": "BlockOfJake",
       "type": "block",
+      "sortid": 22,
       "compiles": true,
       "locked_code": false,
       "registry_name": "block_of_jake",
@@ -252,6 +253,84 @@
           "src/main/jolliestuff_behaviourpack/recipes/strawberry_milk_recipe.json"
         ]
       }
+    },
+    {
+      "name": "BlastSand",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_sand",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/blast_sand.json"
+        ]
+      }
+    },
+    {
+      "name": "NametagRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nametag_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/nametag_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BlastNetherrack",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_netherrack",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/blast_netherrack.json"
+        ]
+      }
+    },
+    {
+      "name": "SmoothPlank",
+      "type": "block",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_plank",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/blocks/smooth_plank.json"
+        ]
+      }
+    },
+    {
+      "name": "SmoothPlankRecipe",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smooth_plank_recipe",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/smooth_plank_recipe.json"
+        ]
+      }
+    },
+    {
+      "name": "BlastCobble",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "blast_cobble",
+      "metadata": {
+        "files": [
+          "src/main/jolliestuff_behaviourpack/recipes/blast_cobble.json"
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -264,6 +343,7 @@
       "item.joliestuff:hello_kitty_sword.name": "Hello Kitty Sword",
       "item.joliestuff:flour.name": "Flour",
       "item.jolliestuff:bacon_pancakes.name": "Bacon Pancakes",
+      "tile.jolliestuff:smooth_plank.name": "Smooth Plank",
       "item.jolliestuff:bacon.name": "Bacon",
       "item.joliestuff:strawberry_milk.name": "Strawberry Milk",
       "item.joliestuff:bacon_pancakes.name": "Bacon Pancakes",
@@ -288,10 +368,11 @@
     "version": "1.0.0",
     "description": "Jollie as hell!",
     "author": "Joe \u0026 Ollie",
-    "websiteURL": "newgrounds,com/orangoose",
+    "websiteURL": "https://mcreator.net",
     "license": "Academic Free License v3.0",
     "disableForgeVersionCheck": true,
     "serverSideOnly": false,
+    "modPicture": "mod_logo",
     "requiredMods": [],
     "dependencies": [],
     "dependants": [],

@@ -10,5 +10,16 @@
       "east": "jolliestuff_block_of_jake_east"
     },
     "sound": "gravel"
+  },
+  "jolliestuff:smooth_plank": {
+    "textures": {
+      "up": "jolliestuff_smooth_plank_up",
+      "down": "jolliestuff_smooth_plank_down",
+      "south": "jolliestuff_smooth_plank_south",
+      "north": "jolliestuff_smooth_plank_north",
+      "west": "jolliestuff_smooth_plank_west",
+      "east": "jolliestuff_smooth_plank_east"
+    },
+    "sound": "gravel"
   }
 }

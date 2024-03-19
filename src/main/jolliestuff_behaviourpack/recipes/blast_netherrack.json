@@ -1,0 +1,20 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_furnace": {
+    "description": {
+      "identifier": "jolliestuff:blast_netherrack"
+    },
+    "groups": [
+      "jolliestuff"
+    ],
+    "tags": [
+      "blast_furnace"
+    ],
+    "input": {
+      "item": "minecraft:netherrack"
+    },
+    "output": {
+      "item": "minecraft:netherbrick"
+    }
+  }
+}
